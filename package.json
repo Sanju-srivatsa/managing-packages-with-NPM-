@@ -2,8 +2,13 @@
 	"author": "SanjuSrivatsa",
 	"description": "The best project to self learn",
 	"name": "fcc-learn-npm-package-json",
-  "license": "MIT",
-  "keywords": ["freecodecamp", "SanjuSrivatsa", "learn"],
+	"license": "MIT",
+  "version": "1.2.0",
+	"keywords": [
+		"freecodecamp",
+		"SanjuSrivatsa",
+		"learn"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
