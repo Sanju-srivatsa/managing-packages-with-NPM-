@@ -1,5 +1,6 @@
-{ 
-  "author": "Sanju Srivatsa"
+{
+	"author": "SanjuSrivatsa",
+  "description" : "The best project to self learn",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
