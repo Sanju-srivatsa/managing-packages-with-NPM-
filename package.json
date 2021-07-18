@@ -3,13 +3,14 @@
 	"description": "The best project to self learn",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
-  "version": "1.2.0",
+	"version": "1.2.0",
 	"keywords": [
 		"freecodecamp",
 		"SanjuSrivatsa",
 		"learn"
 	],
 	"dependencies": {
+    "moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
